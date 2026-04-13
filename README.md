@@ -1,2 +1,20 @@
-# retail-sales-analysis
-Retail Sales Performance &amp; Profitability Analysis using Python, SQL, and Power BI. This project focuses on analyzing sales trends, profit patterns, and the impact of discount on business performance.
+Retail Sales Performance & Profitability Analysis
+
+Overview
+This project analyzes retail sales data to understand business performance and profitability.
+
+Tools Used
+- Python (Pandas, Matplotlib)
+- MySQL
+- Power BI
+
+Key Insights
+- Sales increase over time
+- High discounts reduce profit
+- Some products are loss-making
+
+Project Files
+- Python EDA
+- SQL Queries
+- Power BI Dashboard
+- Final Report
